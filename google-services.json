@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903326955477",
+    "project_id": "mystibelchat",
+    "storage_bucket": "mystibelchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903326955477:android:48987a8dab047cbf60ef5c",
+        "android_client_info": {
+          "package_name": "com.example.mystibelchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903326955477-pm25rtuh7a6q2p5hm6qe9mabr915vb5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mystibelchat",
+            "certificate_hash": "ca387ff1228a7be49a6a90961bca31bc9f76d7ff"
+          }
+        },
+        {
+          "client_id": "903326955477-ev01co1d1sdk58oehhdvhck29h2j1rug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20w0iH1YX1p8DNviod6Xwbcse9MDlwAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903326955477-ev01co1d1sdk58oehhdvhck29h2j1rug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
